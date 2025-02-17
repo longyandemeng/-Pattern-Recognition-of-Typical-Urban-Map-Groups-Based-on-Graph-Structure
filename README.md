@@ -1,0 +1,2 @@
+# -Pattern-Recognition-of-Typical-Urban-Map-Groups-Based-on-Graph-Structure
+This database is the validation set SHP data used in paper Pattern Recognition of Typical Urban Map Groups Based on Graph Structure, which includes 50 building groups with grid patterns, irregular patterns, straight patterns, and curved patterns, as well as 50 road network vector samples with irregular patterns and grid patterns
